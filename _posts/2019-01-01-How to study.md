@@ -1,0 +1,15 @@
+---
+layout: posts
+title: Coursewebsite
+---
+
+اطلاعات در اخرین گزینه ی کادر بالا قرار دارد.
+
+
+This is a sample post:
+- *Post* one and **post** two.
+- bullet point two.
+
+
+---
+**Test**: This is atest

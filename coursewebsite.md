@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /coursewebsite/
 title: سایت درس 
-tags: [سایت]
+# tags: [سایت]
 modified: 8-01-2020
 comments: true
 ---
