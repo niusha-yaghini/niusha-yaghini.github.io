@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Coursewebsite
+title: How to study
 ---
 TA: Mr.Rahimi , Ms.Asna ashari , Mr.Razavi , Ms.Ahmadi, , Mr.Khakpoor
 
