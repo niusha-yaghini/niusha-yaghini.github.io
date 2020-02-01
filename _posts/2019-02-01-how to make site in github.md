@@ -1,12 +1,12 @@
-<!-- ---
+---
 layout: posts
-title: Sample post 8
+title: How to make site in github
 ---
 
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
 
 
----
-**Test**: This is atest -->
+صفحات GitHub صفحات وب عمومی هستند که به راحتی از طریق GitHub منتشر می شوند که سریعترین راه برای استفاده از بارگذاری یک موضوع است. شما  می توانید محتوا و سبک صفحات GitHub خود را از طریق کامپیوتر شخصی خود تغییر دهید.
+
+پس از ورود به سیستم ، یک repository جدید برای شروع ایجاد کنید.
+
+![an image alt text]({{ niush-yaghini.github.io }}C:\niusha-yaghini.github.io\assets\images "how to make site in github")
