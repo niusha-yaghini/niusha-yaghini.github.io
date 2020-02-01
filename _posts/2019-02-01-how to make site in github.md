@@ -9,4 +9,4 @@ title: How to make site in github
 
 پس از ورود به سیستم ، یک repository جدید برای شروع ایجاد کنید.
 
-![an image alt text]({{ niush-yaghini.github.io }}C:\niusha-yaghini.github.io\assets\images "how to make site in github")
+![an image alt text]({{ niush-yaghini.github.io }}\niusha-yaghini.github.io\assets\images\createrepository.jpg "how to make site in github")
