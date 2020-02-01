@@ -19,5 +19,36 @@ title: How to make site in github
 
 ![an image alt text]({{ niush-yaghini.github.io }}/assets/images/reposettings.jpg "how to make site in github")
 
+اگر در صفحه تنظیمات به پایین بروید، بخش صفحات گیتاب را در پایین مشاهده خواهید کرد. برای شروع روند ایجاد سایت خود، روی دکمه Select a theme کلیک کنید.
+
+![an image alt text]({{ niush-yaghini.github.io }}/assets/images/launchthemechooser.jpg "how to make site in github")
+
+هنگامی که دکمه را کلیک کردید ، به سمت انتخاب انتخابگر هدایت می شوید. چندین گزینه تم را در چرخ فلک در بالای صفحه مشاهده خواهید کرد. برای پیش نمایش موضوعات بر روی تصاویر کلیک کنید. هنگامی که یکی را انتخاب کردید ، روی گزینه "انتخاب" در سمت راست کلیک کنید تا حرکت کنید. تغییر بعداً آسان است ، بنابراین اگر مطمئن نیستید ، اکنون یکی را انتخاب کنید.
+
+![an image alt text]({{ niush-yaghini.github.io }}/assets/images/themechooser.jpg "how to make site in github")
+
+اینجا جایی است که می خواهید محتوای خود را بنویسید (در صورت تمایل می توانید محتوای پیش فرض را هم اکنون نگه دارید).
+
+![an image alt text]({{ niush-yaghini.github.io }}/assets/images/codeeditor.jpg "how to make site in github")
+
+پس از پایان ویرایش ، به پایین صفحه بروید و روی تغییرات کامیت کلیک کنید.
+
+![an image alt text]({{ niush-yaghini.github.io }}/assets/images/commitedits.jpg "how to make site in github")
+
+گیتاب  تمام کارها را برای هدایت بازدید کنندگان به username.github.io انجام می دهد تا وب سایت جدید شما را مشاهده کنند. این کار ممکن است چند دقیقه طول بکشد. بعد از گذشت مدتی می توانید یک تب جدید در مرورگر خود باز کنید تا به سایت خود بروید!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
